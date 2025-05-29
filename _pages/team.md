@@ -134,7 +134,7 @@ author_profile: false
 <!-- Other -->
 <div class="row">
   <div class="small-12 columns">
-    <h2>Other Contributors</h2>
+    <h2 id="other">Other Contributors</h2>
     <div class="team-container">
       <div class="team-member">
         <img src="/assets/images/teams/QZhang.jpeg" alt="QZhang">
