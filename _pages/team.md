@@ -154,6 +154,12 @@ author_profile: false
         <p>Modeling Consultant for Scheduling</p>
         <p>Alum of University of Tennessee, Knoxville</p>
       </div>
+      <div class="team-member">
+        <img src="/assets/images/teams/Mishal.jpg" alt="Mishal">
+        <h3><a href="https://www.linkedin.com/in/mishal-alonize-9483652b3/" target="_blank">Dr. Hang Shuai</a></h3>
+        <p>Modeling Consultant for Scheduling</p>
+        <p>Alum of University of Tennessee, Knoxville</p>
+      </div>
     </div>
   </div>
 </div>
