@@ -104,9 +104,9 @@ author_profile: false
       </div>
       <div class="team-member">
         <img src="/assets/images/teams/JWang.jpeg" alt="JWang">
-        <h3><a href="https://jinningwang.github.io/" target="_blank">Jinning Wang</a></h3>
+        <h3><a href="https://jinningwang.github.io/" target="_blank">Dr. Jinning Wang</a></h3>
         <p>LTB development coordination (since 2021); AMS development (since 2022)</p>
-        <p>University of Tennessee, Knoxville</p>
+        <p>Alum of University of Tennessee, Knoxville</p>
       </div>
       <div class="team-member">
         <img src="/assets/images/teams/Zack.jpeg" alt="Zack">
@@ -158,7 +158,7 @@ author_profile: false
         <img src="/assets/images/teams/Mishal.jpg" alt="Mishal">
         <h3><a href="https://www.linkedin.com/in/mishal-alonize-9483652b3/" target="_blank">Mishal Alonize</a></h3>
         <p>Modeling Consultant for Scheduling</p>
-        <p>Alum of University of Tennessee, Knoxville</p>
+        <p>University of Tennessee, Knoxville</p>
       </div>
     </div>
   </div>
