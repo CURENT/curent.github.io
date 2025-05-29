@@ -157,7 +157,7 @@ author_profile: false
       <div class="team-member">
         <img src="/assets/images/teams/Mishal.jpg" alt="Mishal">
         <h3><a href="https://www.linkedin.com/in/mishal-alonize-9483652b3/" target="_blank">Mishal Alonize</a></h3>
-        <p>Modeling Consultant for Scheduling</p>
+        <p>Modeling Consultant for Synthetic Systems</p>
         <p>University of Tennessee, Knoxville</p>
       </div>
     </div>
