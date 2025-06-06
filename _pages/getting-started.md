@@ -4,7 +4,7 @@ title: "Getting Started"
 excerpt: "A quick start guide for new users."
 permalink: /getting-started/
 share: true
-related: fasle
+related: false
 date: 2024-01-08
 last_modified_at: 2025-06-05
 comments: true
@@ -13,31 +13,36 @@ toc: true
 toc_sticky: true
 ---
 This page provides a quick start guide for new users to get started with LTB.
-Each project has its own documentation, where more details about installation and example usage can be found.
+Each project has its own documentation, where you can find more details about installation and example usage.
 
 ## Installation
 
 ### Operating System
 
-LTB projects are designed to be cross-platform and are compatible with Windows, macOS, and Linux. Note that [Windows Subsystem for Linux (WSL)][WSL] can be easier to use on Windows.
+LTB projects are designed to be cross-platform and are compatible with Windows, macOS, and Linux. Note that [Windows Subsystem for Linux (WSL)](https://learn.microsoft.com/en-us/windows/wsl/install) can be easier to use on Windows.
 
 ### Environment Configuration
 
-If you are new to Python and want to get started quickly, you can use Mambaforge, which is a conda-like package manager configured with conda-forge.
+If you're new to Python and want to get started quickly, we recommend using **Mambaforge**, a conda-like package manager configured with conda-forge.
 
-First, install Mambaforge.
+#### Step 1: Install Mambaforge
 
-Download the latest Mambaforge for your platform from conda-forge/miniforge.
-Most users will use x86_64(amd64) for Intel and AMD processors.
-Mac users with Apple Silicon should use arm64(Apple Silicon) for best performance.
+Download the latest Mambaforge installer for your platform from the [conda-forge/miniforge](https://conda-forge.org/download/) page.
 
-Next, complete the Mambaforge installation on your system.
-If you are using Anaconda or Miniconda on Windows, you should open Anaconda Prompt instead of Miniforge Prompt.
+- Most users with Intel or AMD processors should choose the **x86_64 (amd64)** version.
+- Mac users with Apple Silicon should choose the **arm64 (Apple Silicon)** version for best performance.
 
-Second, create an environment for LTB.
+After downloading, complete the installation following the instructions for your operating system.
 
-Open Terminal (on Linux or macOS) or Miniforge Prompt (on Windows, not cmd!!).
-Make sure you are in a conda environment - you should see (base) prepended to the command-line prompt, such as ``(base) C:\Users\username>``
+> **Note:** If you're using Anaconda or Miniconda on Windows, open the **Anaconda Prompt**, not the **Miniforge Prompt**.
+
+#### Step 2: Create an Environment for LTB
+
+Open **Terminal** (on Linux or macOS) or **Miniforge Prompt** (on Windows — not `cmd`!).
+
+Ensure you're in a conda environment — you should see `(base)` at the beginning of your command prompt, e.g., `(base) C:\Users\username>`.
+
+To create a new environment for LTB (you can change the name `ltb` if desired):
 
 Create an environment for LTB (recommended), you can change the environment name `<ltb>`.
 
@@ -45,7 +50,7 @@ Create an environment for LTB (recommended), you can change the environment name
 mamba create --name ltb
 ```
 
-Activate the new environment with
+Activate the new environment:
 
 ```bash
 mamba activate ltb
@@ -71,6 +76,9 @@ It is also applicable to AMS and AGVis.
 
 ## Hands-on Tutorial
 
-It is recommended to go through [ANDES Examples](https://andes.readthedocs.io/en/latest/examples/index.html) and [AMS Examples](https://ltb.readthedocs.io/projects/ams/en/latest/examples/index.html) to get familiar with the LTB usage.
+We recommend exploring the following examples to get familiar with LTB:
 
-[LTB Demo](https://github.com/CURENT/demo) is a collection of Jupyter notebooks that demonstrate the usage of LTB projects.
+- [ANDES Examples](https://andes.readthedocs.io/en/latest/examples/index.html)
+- [AMS Examples](https://ltb.readthedocs.io/projects/ams/en/latest/examples/index.html)
+
+You can also check out the [LTB Demo](https://github.com/CURENT/demo), a collection of Jupyter notebooks demonstrating the usage of LTB projects.
