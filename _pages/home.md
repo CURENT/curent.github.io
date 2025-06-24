@@ -27,6 +27,9 @@ feature_row:
     excerpt: "Handles large-scale cases effortlessly, maintaining optimal performance."    
 ---
 
+{% include feature_row %}
+
+
 <head>
   <!-- Other HTML head elements -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
@@ -144,20 +147,19 @@ feature_row:
         We kindly ask that you cite the following papers if LTB is used in your research.
         <ol>
             <li>F. Li, K. Tomsovic and H. Cui, "A Large-Scale Testbed as a Virtual Power Grid: For Closed-Loop Controls in Research and Testing,"
-                in IEEE Power and Energy Magazine, vol. 18, no. 2, pp. 60-68, March-April 2020, doi: 10.1109/MPE.2019.2959054.
-                <span class="__dimensions_badge_embed__" data-doi="10.1109/MPE.2019.2959054" data-style="small_rectangle"></span>
-            </li>
+                in IEEE Power and Energy Magazine, vol. 18, no. 2, pp. 60-68, March-April 2020, doi: <a href="https://ieeexplore.ieee.org/document/9007798" target="_blank">10.1109/MPE.2019.2959054</a>.
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/MPE.2019.2959054" data-style="small_rectangle"></span>    </li>
             <li>H. Cui, F. Li and K. Tomsovic, "Hybrid Symbolic-Numeric Framework for Power System Modeling and Analysis,"
-                in IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1373-1384, March 2021, doi: 10.1109/TPWRS.2020.3017019.
-                <span class="__dimensions_badge_embed__" data-doi="10.1109/TPWRS.2020.3017019" data-style="small_rectangle"></span>  
+                in IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1373-1384, March 2021, doi: <a href="https://ieeexplore.ieee.org/document/9169830" target="_blank">10.1109/TPWRS.2020.3017019</a>.
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/TPWRS.2020.3017019" data-style="small_rectangle"></span>
             </li>
-            <li>J. Wang et al., "Dynamics-incorporated Modeling Framework for Stability Constrained Scheduling Under High-penetration of Renewable
-                Energy," in IEEE Transactions on Sustainable Energy, doi: 10.1109/TSTE.2025.3528027.              
-                <span class="__dimensions_badge_embed__" data-doi="10.1109/TSTE.2025.3528027" data-style="small_rectangle"></span>  
+            <li>J. Wang et al., "Dynamics-Incorporated Modeling Framework for Stability Constrained Scheduling Under High-Penetration of Renewable Energy,"
+                in IEEE Transactions on Sustainable Energy, vol. 16, no. 3, pp. 1673-1685, July 2025, doi: <a href="https://ieeexplore.ieee.org/document/10836855" target="_blank">10.1109/TSTE.2025.3528027</a>.
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/TSTE.2025.3528027" data-style="small_rectangle"></span>
             </li>
             <li>N. Parsly, J. Wang, N. West, Q. Zhang, H. Cui and F. Li, "DiME and AGVis: A Distributed Messaging Environment and Geographical
                 Visualizer for Large-Scale Power System Simulation," 2023 North American Power Symposium (NAPS), Asheville, NC, USA, 2023, pp. 1-5,
-                doi: 10.1109/NAPS58826.2023.10318583.
+                doi: <a href="https://ieeexplore.ieee.org/document/10318583" target="_blank">10.1109/NAPS58826.2023.10318583</a>.
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/NAPS58826.2023.10318583" data-style="small_rectangle"></span>
             </li>
         </ol>
@@ -165,78 +167,76 @@ feature_row:
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
   </div>
+</div>
 
-  <div class="row">
-    <h2>Partners & Users</h2>
-    <div id="map" style="height: 600px; width: 1200px; margin: 0 auto; border: 1px solid #ccc;"></div>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
-      <script src="/assets/js/map.js"></script>
+<div class="row">
+  <h2>Partners & Users</h2>
+  <div id="map" style="height: 600px; width: 1200px; margin: 0 auto; border: 1px solid #ccc;"></div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+    <script src="/assets/js/map.js"></script>
+
+  <div class="logo-container">
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/CURENT.png" alt="CURENT">
     </div>
-
-    <div class="logo-container">
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/CURENT.png" alt="CURENT">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/UTK.png" alt="UTK">
-      </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/UTK.png" alt="UTK">
     </div>
-
-    <div class="logo-container">
-      <div class="partner-logo">
-        <img src="/assets/images/logos/NSF2.png" alt="US National Science Foundation">
-      </div>
-      <div class="partner-logo">
-        <img src="/assets/images/logos/DOE.png" alt="US Department of Energy">
-      </div>
-    </div>
-
-    <div class="logo-container">
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/clemson_logo.png" alt="Clemson University">
-      </div>
-      <div class="partner-logo2">
-        <img src="https://brand.ncsu.edu/img/downloads/logo-03.jpg" alt="NCSU">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/MSU.png" style="width:300px;"  alt="Mississippi State University">
-      </div>
-    </div>
-
-    <div class="logo-container">
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/MST.png" alt="Missouri S&T">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/LLNL.png" alt="Lawrence Livermore National Laboratory">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/ACHL2.png" alt="Achillea Research">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/UDenver.png" alt="University of Denver">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/RTX2.png" alt="Raytheon Technologies">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/NREL.jpeg" alt="National Renewable Energy Laboratory">
-      </div>
-    </div>
-
-    <div class="logo-container">
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/OSU.png" alt="Oklahoma State University">
-      </div>
-      <div class="partner-logo2">
-        <img src="/assets/images/logos/PNNL3.png" alt="Pacific Northwest National Laboratory">
-      </div>
-    </div>
-
-    <p style="margin-top: 20px;">
-      If you want to add your map point or logo, please open an issue using the template
-      <strong><a href="https://github.com/CURENT/curent.github.io/issues">Add Affiliation to LTB</a></strong>.
-    </p>    
-
   </div>
+
+  <div class="logo-container">
+    <div class="partner-logo">
+      <img src="/assets/images/logos/NSF2.png" alt="US National Science Foundation">
+    </div>
+    <div class="partner-logo">
+      <img src="/assets/images/logos/DOE.png" alt="US Department of Energy">
+    </div>
+  </div>
+
+  <div class="logo-container">
+    <div class="partner-logo2">
+      <img src="assets/images/logos/NCSU.png" alt="North Carolina State University">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/MSU.png" alt="Mississippi State University">
+    </div>
+    <div class="partner-logo2">
+      <img src="assets/images/logos/Clemson.png" alt="Clemson University">
+    </div>
+  </div>
+
+  <div class="logo-container">
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/MST.png" alt="Missouri S&T University">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/LLNL.png" alt="Lawrence Livermore National Laboratory">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/ACHL2.png" alt="Achillea Research">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/UDenver.png" alt="University of Denver">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/RTX2.png" alt="Raytheon Technologies">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/NREL.jpeg" alt="National Renewable Energy Laboratory">
+    </div>
+  </div>
+
+  <div class="logo-container">
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/OSU.png" alt="Oklahoma State University">
+    </div>
+    <div class="partner-logo2">
+      <img src="/assets/images/logos/PNNL3.png" alt="Pacific Northwest National Laboratory">
+    </div>
+  </div>
+
+  <p style="margin-top: 20px;">
+    If you want to add your map point or logo, please open an issue using the template
+    <strong><a href="https://github.com/CURENT/curent.github.io/issues">Add Affiliation to LTB</a></strong>.
+  </p>
 </div>
