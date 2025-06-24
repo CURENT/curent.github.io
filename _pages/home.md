@@ -196,7 +196,7 @@ feature_row:
 
   <div class="logo-container">
     <div class="partner-logo2">
-      <img src="assets/images/logos/NCSU.png" alt="NCSU">
+      <img src="assets/images/logos/NCSU.png" alt="North Carolina State University">
     </div>
     <div class="partner-logo2">
       <img src="/assets/images/logos/MSU.png" alt="Mississippi State University">
@@ -208,7 +208,7 @@ feature_row:
 
   <div class="logo-container">
     <div class="partner-logo2">
-      <img src="/assets/images/logos/MST.png" alt="Missouri S&T">
+      <img src="/assets/images/logos/MST.png" alt="Missouri S&T University">
     </div>
     <div class="partner-logo2">
       <img src="/assets/images/logos/LLNL.png" alt="Lawrence Livermore National Laboratory">
