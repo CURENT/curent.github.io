@@ -147,20 +147,19 @@ feature_row:
         We kindly ask that you cite the following papers if LTB is used in your research.
         <ol>
             <li>F. Li, K. Tomsovic and H. Cui, "A Large-Scale Testbed as a Virtual Power Grid: For Closed-Loop Controls in Research and Testing,"
-                in IEEE Power and Energy Magazine, vol. 18, no. 2, pp. 60-68, March-April 2020, doi: 10.1109/MPE.2019.2959054.
-                <span class="__dimensions_badge_embed__" data-doi="10.1109/MPE.2019.2959054" data-style="small_rectangle"></span>
-            </li>
+                in IEEE Power and Energy Magazine, vol. 18, no. 2, pp. 60-68, March-April 2020, doi: <a href="https://ieeexplore.ieee.org/document/9007798" target="_blank">10.1109/MPE.2019.2959054</a>.
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/MPE.2019.2959054" data-style="small_rectangle"></span>    </li>
             <li>H. Cui, F. Li and K. Tomsovic, "Hybrid Symbolic-Numeric Framework for Power System Modeling and Analysis,"
-                in IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1373-1384, March 2021, doi: 10.1109/TPWRS.2020.3017019.
-                <span class="__dimensions_badge_embed__" data-doi="10.1109/TPWRS.2020.3017019" data-style="small_rectangle"></span>  
+                in IEEE Transactions on Power Systems, vol. 36, no. 2, pp. 1373-1384, March 2021, doi: <a href="https://ieeexplore.ieee.org/document/9169830" target="_blank">10.1109/TPWRS.2020.3017019</a>.
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/TPWRS.2020.3017019" data-style="small_rectangle"></span>
             </li>
-            <li>J. Wang et al., "Dynamics-incorporated Modeling Framework for Stability Constrained Scheduling Under High-penetration of Renewable
-                Energy," in IEEE Transactions on Sustainable Energy, doi: 10.1109/TSTE.2025.3528027.              
-                <span class="__dimensions_badge_embed__" data-doi="10.1109/TSTE.2025.3528027" data-style="small_rectangle"></span>  
+            <li>J. Wang et al., "Dynamics-Incorporated Modeling Framework for Stability Constrained Scheduling Under High-Penetration of Renewable Energy,"
+                in IEEE Transactions on Sustainable Energy, vol. 16, no. 3, pp. 1673-1685, July 2025, doi: <a href="https://ieeexplore.ieee.org/document/10836855" target="_blank">10.1109/TSTE.2025.3528027</a>.
+                <span class="__dimensions_badge_embed__" data-doi="10.1109/TSTE.2025.3528027" data-style="small_rectangle"></span>
             </li>
             <li>N. Parsly, J. Wang, N. West, Q. Zhang, H. Cui and F. Li, "DiME and AGVis: A Distributed Messaging Environment and Geographical
                 Visualizer for Large-Scale Power System Simulation," 2023 North American Power Symposium (NAPS), Asheville, NC, USA, 2023, pp. 1-5,
-                doi: 10.1109/NAPS58826.2023.10318583.
+                doi: <a href="https://ieeexplore.ieee.org/document/10318583" target="_blank">10.1109/NAPS58826.2023.10318583</a>.
                 <span class="__dimensions_badge_embed__" data-doi="10.1109/NAPS58826.2023.10318583" data-style="small_rectangle"></span>
             </li>
         </ol>
