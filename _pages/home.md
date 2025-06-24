@@ -201,6 +201,9 @@ feature_row:
     <div class="partner-logo2">
       <img src="/assets/images/logos/MSU.png" alt="Mississippi State University">
     </div>
+    <div class="partner-logo2">
+      <img src="assets/images/logos/Clemson.png" alt="Clemson University">
+    </div>
   </div>
 
   <div class="logo-container">
