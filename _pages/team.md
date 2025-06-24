@@ -104,9 +104,9 @@ author_profile: false
       </div>
       <div class="team-member">
         <img src="/assets/images/teams/JWang.jpeg" alt="JWang">
-        <h3><a href="https://jinningwang.github.io/" target="_blank">Jinning Wang</a></h3>
+        <h3><a href="https://jinningwang.github.io/" target="_blank">Dr. Jinning Wang</a></h3>
         <p>LTB development coordination (since 2021); AMS development (since 2022)</p>
-        <p>University of Tennessee, Knoxville</p>
+        <p>Alum of University of Tennessee, Knoxville</p>
       </div>
       <div class="team-member">
         <img src="/assets/images/teams/Zack.jpeg" alt="Zack">
@@ -134,7 +134,7 @@ author_profile: false
 <!-- Other -->
 <div class="row">
   <div class="small-12 columns">
-    <h2>Other Contributors</h2>
+    <h2 id="other">Other Contributors</h2>
     <div class="team-container">
       <div class="team-member">
         <img src="/assets/images/teams/QZhang.jpeg" alt="QZhang">
@@ -153,6 +153,12 @@ author_profile: false
         <h3><a href="https://sites.google.com/view/hangshuai/home?authuser=0" target="_blank">Dr. Hang Shuai</a></h3>
         <p>Modeling Consultant for Scheduling</p>
         <p>Alum of University of Tennessee, Knoxville</p>
+      </div>
+      <div class="team-member">
+        <img src="/assets/images/teams/Mishal.jpg" alt="Mishal">
+        <h3><a href="https://www.linkedin.com/in/mishal-alonize-9483652b3/" target="_blank">Mishal Alonize</a></h3>
+        <p>Modeling Consultant for Synthetic Systems</p>
+        <p>University of Tennessee, Knoxville</p>
       </div>
     </div>
   </div>

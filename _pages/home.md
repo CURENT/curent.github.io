@@ -165,6 +165,81 @@ feature_row:
         </ol>
     </p>
     <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+  </div>
+
+  <div class="row">
+    <h2>Partners & Users</h2>
+    <div id="map" style="height: 600px; width: 1200px; margin: 0 auto; border: 1px solid #ccc;"></div>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+      <script src="/assets/js/map.js"></script>
+    </div>
+
+    <div class="logo-container">
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/CURENT.png" alt="CURENT">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/UTK.png" alt="UTK">
+      </div>
+    </div>
+
+    <div class="logo-container">
+      <div class="partner-logo">
+        <img src="/assets/images/logos/NSF2.png" alt="US National Science Foundation">
+      </div>
+      <div class="partner-logo">
+        <img src="/assets/images/logos/DOE.png" alt="US Department of Energy">
+      </div>
+    </div>
+
+    <div class="logo-container">
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/clemson_logo.png" alt="Clemson University">
+      </div>
+      <div class="partner-logo2">
+        <img src="https://brand.ncsu.edu/img/downloads/logo-03.jpg" alt="NCSU">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/MSU.png" style="width:300px;"  alt="Mississippi State University">
+      </div>
+    </div>
+
+    <div class="logo-container">
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/MST.png" alt="Missouri S&T">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/LLNL.png" alt="Lawrence Livermore National Laboratory">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/ACHL2.png" alt="Achillea Research">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/UDenver.png" alt="University of Denver">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/RTX2.png" alt="Raytheon Technologies">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/NREL.jpeg" alt="National Renewable Energy Laboratory">
+      </div>
+    </div>
+
+    <div class="logo-container">
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/OSU.png" alt="Oklahoma State University">
+      </div>
+      <div class="partner-logo2">
+        <img src="/assets/images/logos/PNNL3.png" alt="Pacific Northwest National Laboratory">
+      </div>
+    </div>
+
+    <p style="margin-top: 20px;">
+      If you want to add your map point or logo, please open an issue using the template
+      <strong><a href="https://github.com/CURENT/curent.github.io/issues">Add Affiliation to LTB</a></strong>.
+    </p>    
+
   </div>
 </div>
 
