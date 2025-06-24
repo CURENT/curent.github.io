@@ -42,7 +42,7 @@ Make sure you are in a conda environment - you should see (base) prepended to th
 Create an environment for LTB (recommended), you can change the environment name `<ltb>` and python version <3.8> to desired ones.
 
 ```bash
-mamba create --name ltb python=3.8
+mamba create --name ltb python=3.12
 ```
 
 Activate the new environment with
