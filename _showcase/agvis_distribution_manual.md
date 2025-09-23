@@ -3,10 +3,11 @@ layout: single
 title: "Displaying a Distribution System in AGVis"
 excerpt: "A lightweight, file-based path to visualize a distribution grid in AGVis"
 categories:
-  - presentation
+  - research
 tags:
-  - overview
-  - video
+  - function
+  - distribution
+  - agvis
 share: true
 related: true
 date: 2025-09-22
@@ -53,17 +54,17 @@ _Optional:_
 ## Minimal example (for a small feeder)
 **Bus**
 ```
-idx | xcoord     | ycoord     | name         | type  | color
-1   | -83.939120 | 35.922410  | SubA         |       | #2E86C1
-2   | -83.935500 | 35.924900  | FeederA-01   | load  |
-3   | -83.932700 | 35.926400  | FeederA-02   | load  |
+idx | xcoord     | ycoord     | name         
+1   | -83.939120 | 35.922410  | SubA               
+2   | -83.935500 | 35.924900  | FeederA-01   
+3   | -83.932700 | 35.926400  | FeederA-02  
 ```
 
 **Line**
 ```
-idx | bus1 | bus2 | name           | color
-1   | 1    | 2    | SubA–FeederA01 | #34495E
-2   | 2    | 3    | FeederA01–02   |
+idx | bus1 | bus2 | name           
+1   | 1    | 2    | SubA–FeederA01 
+2   | 2    | 3    | FeederA01–02   
 ```
 This satisfies the required columns and demonstrates optional styling.
 
@@ -75,6 +76,12 @@ This satisfies the required columns and demonstrates optional styling.
    - **Custom Colors** toggles to enforce UI colors or respect your Excel first-cell hex,  
    - **Opacity** and **Size** sliders to tune readability,  
    - **Prioritize Layer** to draw one layer above others (helpful when feeders overlap).
+
+## Example
+As an example, the following figure shows how a **distribution network in East Knoxville** can be rendered in AGVis using the MultiLayer Excel input.  
+This demonstrates radial feeders and tie lines drawn directly on the geographic map.
+
+![Knoxville Distribution Example](/assets/images/showcase/agvis_distribution_manual/Picture1.png)
 
 ## Notes for distribution systems
 - **Coordinates**: use geographic lon/lat (WGS-84).  
