@@ -139,9 +139,6 @@ feature_row:
         platform for power system research and development.
       </p>
 
-    <h2>Why LTB?</h2>
-    {% include feature_row %}
-
     <h2>Design Philosophy</h2>
     <p>The purpose of LTB is to offer a rapid prototyping environment for power system research and development.
         We kindly ask that you cite the following papers if LTB is used in your research.
