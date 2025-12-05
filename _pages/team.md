@@ -97,9 +97,9 @@ author_profile: false
       </div>
       <div class="team-member">
         <img src="/assets/images/teams/XFang.jpeg" alt="XFang">
-        <h3><a href="http://www1.ece.neu.edu/~abur/" target="_blank">Dr. Xin Fang</a></h3>
+        <h3><a href="https://xinfang88.github.io" target="_blank">Dr. Xin Fang</a></h3>
         <p>AMS architect (since 2022)</p>
-        <p>Mississippi State University</p>
+        <p>University of South Carolina</p>
         <p>CURENT Affiliate Faculty</p>
       </div>
       <div class="team-member">
