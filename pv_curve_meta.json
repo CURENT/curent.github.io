@@ -1,0 +1,8 @@
+{
+  "p_initial": 1.0,
+  "step_size": 0.02,
+  "vmin_limit": 0.5,
+  "target_bus": null,
+  "nose_scale_detected": null,
+  "n_points": 13
+}

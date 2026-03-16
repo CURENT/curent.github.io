@@ -105,7 +105,7 @@ author_profile: false
       <div class="team-member">
         <img src="/assets/images/teams/JWang.jpeg" alt="JWang">
         <h3><a href="https://jinningwang.github.io/" target="_blank">Dr. Jinning Wang</a></h3>
-        <p>LTB development coordination (since 2021); AMS development (since 2022)</p>
+        <p>LTB development coordination (2021-2024); AMS development (since 2022)</p>
         <p>Alum of University of Tennessee, Knoxville</p>
       </div>
       <div class="team-member">
@@ -125,6 +125,25 @@ author_profile: false
         <h3><a href="https://www.linkedin.com/in/nicholas-drake-west/" target="_blank">Nicholas West</a></h3>
         <p>DiME and AGVis development (2020-2022)</p>
         <p>Alum of University of Tennessee, Knoxville</p>
+        <p>Clemson University</p>
+      </div>
+        <div class="team-member">
+        <img src="/assets/images/teams/JunjieYin.png" alt="Junjie">
+        <h3><a href="https://eejyin.github.io/" target="_blank">Junjie (John) Yin</a></h3>
+        <p>LTB development coordination (since 2024); AGVis development (since 2024)</p>
+        <p>University of Tennessee, Knoxville</p>
+      </div>
+        <div class="team-member">
+        <img src="/assets/images/teams/Matthew.jpg" alt="Matt">
+        <h3><a href="https://www.linkedin.com/in/mcannav/" target="_blank">Matt Cannavaro</a></h3>
+        <p>LLM with LTB, AI Development (2025-2026)</p>
+        <p>Alum of Clemson University</p>
+      </div>
+        <div class="team-member">
+        <img src="/assets/images/teams/Tinghan.png" alt="Tinghan">
+        <h3><a href="https://www.linkedin.com/in/zackary-malkmus-4518461b3/" target="_blank">Ting-Han (Hank) Li</a></h3>
+        <p>LLM with LTB, AI Development (2025-2026)</p>
+        <p>Clemson University</p>
       </div>
     </div>
   </div>
