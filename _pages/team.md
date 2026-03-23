@@ -141,7 +141,7 @@ author_profile: false
       </div>
         <div class="team-member">
         <img src="/assets/images/teams/Tinghan.png" alt="Tinghan">
-        <h3>Ting-Han (Hank) Li</h3>
+        <h3><a href="https://www.linkedin.com/in/hanklin0857/" target="_blank">Ting-Han (Hank) Li</a></h3>
         <p>LLM with LTB, AI Development (2025-2026)</p>
         <p>Clemson University</p>
       </div>
