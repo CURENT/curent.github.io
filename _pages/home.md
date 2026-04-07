@@ -168,10 +168,17 @@ feature_row:
 
 <div class="row">
   <h2>Partners & Users</h2>
+  Partners:
+  <div class="logo-container">
+      <img src="/assets/images/logos/04_2026partner.png" alt="CURENT LTB partners">
+  </div>
+
+
   <div id="map" style="height: 600px; width: 1200px; margin: 0 auto; border: 1px solid #ccc;"></div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <script src="/assets/js/map.js"></script>
 
+<!--
   <div class="logo-container">
     <div class="partner-logo2">
       <img src="/assets/images/logos/CURENT.png" alt="CURENT">
@@ -219,7 +226,7 @@ feature_row:
       <img src="/assets/images/logos/RTX2.png" alt="Raytheon Technologies">
     </div>
     <div class="partner-logo2">
-      <img src="/assets/images/logos/NREL.jpeg" alt="National Renewable Energy Laboratory">
+      <img src="/assets/images/logos/NREL.jpeg" alt="National Laboratory of the Rockies">
     </div>
   </div>
 
@@ -231,6 +238,7 @@ feature_row:
       <img src="/assets/images/logos/PNNL3.png" alt="Pacific Northwest National Laboratory">
     </div>
   </div>
+-->
 
   <p style="margin-top: 20px;">
     If you want to add your map point or logo, please open an issue using the template
