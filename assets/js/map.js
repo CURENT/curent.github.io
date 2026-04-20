@@ -90,7 +90,7 @@ function getCustomIcon(markerSymbol, markerColor) {
     return L.divIcon({
         html: `<i class="${iconClass}" style="color: ${markerColor || defaultColor}; font-size: 16px;"></i>`,
         className: 'custom-div-icon',
-        iconSize: [16, 16],
+        iconSize: [32, 32],
         iconAnchor: [8, 16],
         popupAnchor: [0, -16]
     });
