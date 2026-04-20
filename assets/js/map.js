@@ -68,7 +68,7 @@ function getCustomIcon(markerSymbol, markerColor) {
             break;
         case '1':  // university
             iconClass = 'fas fa-university';
-            defaultColor = '#7792B1';
+            defaultColor = '#0f76dc';
             break;
         case '2':  // lab
             iconClass = 'fas fa-flask';
