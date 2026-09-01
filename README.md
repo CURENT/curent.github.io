@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the LTB project website. The site is hosted using GitHub Pages at `curent.github.io` and redirects to `ltb.curent.org` (see the `CNAME` file for details). The website is built using the Minimal Mistakes Jekyll theme.
+This repository contains the source code for the LTB project website. The site is hosted using GitHub Pages at `ltb.curent.org`; the legacy `curent.github.io` address redirects there (see the `CNAME` file for details). The website is built using the Minimal Mistakes Jekyll theme.
 
 ## Changes We've Made Based on the Original Template
 
